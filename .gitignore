@@ -77,3 +77,4 @@ test_output/
 # Local configuration
 .env
 .env.local
+.github/
