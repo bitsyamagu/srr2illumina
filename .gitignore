@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Build artifacts
+srr2illumina
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# Editor files
+*~
+*.swp
+*.swo
+.vscode/
+*.kate-swp
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Core dumps
+core
+core.*
+vgcore.*
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Test files
+test_*.fastq
+test_*.fastq.gz
+*.test
+test_output/
+
+# Local configuration
+.env
+.env.local
